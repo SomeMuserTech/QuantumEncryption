@@ -1,2 +1,2 @@
 # QuantumEncryption
-A Python Based Key Encryption Algorithm, with emphasis on
+A Python Based Key Encryption Algorithm
